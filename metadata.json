@@ -1,0 +1,6 @@
+{
+  "name": "WCC Premier Cricket 3D",
+  "description": "Realistic 3D cricket simulation featuring dynamic weather conditions, authentic physics, broadcast presentation, DRS Hawk-Eye reviews, and online multiplayer modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
